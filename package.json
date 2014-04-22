@@ -1,0 +1,19 @@
+{
+  "name": "shortdiary.js",
+  "version": "1.0.0",
+  "description": "Node.js module for shortdiary.me",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silsha/shortdiary.js"
+  },
+  "keywords": [
+    "shortdiary"
+  ],
+  "author": "silsha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silsha/shortdiary.js/issues"
+  },
+  "homepage": "https://github.com/silsha/shortdiary.js"
+}
