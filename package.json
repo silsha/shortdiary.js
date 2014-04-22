@@ -1,6 +1,6 @@
 {
   "name": "shortdiary.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js module for shortdiary.me",
   "main": "index.js",
   "repository": {

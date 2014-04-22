@@ -23,8 +23,8 @@ It works like this.
 ## Methods
 
 ### posts
-    api.posts.list();
-
+    api.posts.list(); // Get all your posts
+    api.posts.post(id); // Get single post
 ## License
 
 Copyright © 2014 silsha <hallo@silsha.me>

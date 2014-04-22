@@ -48,6 +48,10 @@ var shortdiary = function(username, password){
 	this.posts.list = function(callback){
 		get('posts/', noop, callback);
 	};
+
+	this.posts.post = function(id, callback){
+		get('posts/' + id + '/', noop, callback);
+	};
 }
 
 module.exports = shortdiary;
